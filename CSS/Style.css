@@ -1,0 +1,15 @@
+h1 {
+    color: aqua;
+    background-color: black;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    background-color: blueviolet;
+}
+h3{
+    text-align: right;
+    background-color: greenyellow;
+    text-decoration: underline;
+    font-style: inherit;
+}
